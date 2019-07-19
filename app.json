@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "TABS",
+    "slug": "TABS",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/pill-icon.jpg",
+    "splash": {
+      "image": "./assets/images/splash-pill.png",
+      "resizeMode": "2x2",
+      "backgroundColor": "##F5C3C2"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
